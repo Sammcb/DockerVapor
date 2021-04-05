@@ -1,4 +1,4 @@
-FROM ghcr.io/sammcb/swift:latest
+FROM swift
 
 ARG VAPOR_VER=18.3.0
 ARG VAPOR_DIR=opt
