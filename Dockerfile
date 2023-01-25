@@ -1,6 +1,6 @@
-FROM swift
+FROM swift:5.7.3
 
-ARG VAPOR_VER=18.3.2
+ARG VAPOR_VER=18.6.0
 ARG VAPOR_DIR=opt
 
 ARG DEBIAN_FRONTEND=noninteractive
