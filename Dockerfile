@@ -1,4 +1,4 @@
-FROM swift:6.0.1
+FROM swift:6.0.2
 
 ARG VAPOR_VER=18.6.0
 ARG VAPOR_DIR=opt
